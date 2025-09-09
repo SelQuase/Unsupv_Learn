@@ -1,2 +1,2 @@
 # Unsupv_Learn
-All python files associated with business analytics projects using unsupervised learning algorithms 
+All files associated with data science projects with unsupervised learning algorithms 
